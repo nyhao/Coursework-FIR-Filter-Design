@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1354867680 source:h:\sed\coursework\main.cpp
+	<iostream>
+	<fstream>
+	"coursework.h"
+
+1354867790 source:h:\sed\coursework\coursework.cpp
+	<iostream>
+	<fstream>
+	"coursework.h"
+
+1354875344 source:e:\sed\coursework\main.cpp
+	<iostream>
+	<fstream>
+	"coursework.h"
+
+1354896590 source:e:\sed\coursework\coursework.cpp
+	<iostream>
+	<fstream>
+	"coursework.h"
+
+1354801804 e:\sed\coursework\coursework.h
+
+1354773004 h:\sed\coursework\coursework.h
+
